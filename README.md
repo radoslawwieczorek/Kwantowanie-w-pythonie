@@ -10,6 +10,8 @@ Przydatne linki:
   - [Google Colab](https://colab.research.google.com/)  \(wymaga logowania\)
 
 * kursy pythona po polsku
+  - [Python w szkole (OEIiZK)](https://python.oeiizk.waw.pl/)
+  - [learnpython.org](https://www.learnpython.org/pl/)
   - [Kamil Kwapisz: Nauka Podstaw Pythona](https://kamil.kwapisz.pl/category/python/nauka-podstaw-pythona/)
     -  [Łańcuchy znaków](https://kamil.kwapisz.pl/nauka-podstaw-python-string)
   - [Python dla wszystkich (PY4E)](https://py4e.pl/)
