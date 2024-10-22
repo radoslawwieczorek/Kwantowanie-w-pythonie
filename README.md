@@ -19,4 +19,9 @@ Przydatne linki:
     - [Listy](https://py4e.pl/lessons/lists)
   - [codeforia (wymaga logowania)](https://codeforia.com)
 
-
+* Żółw
+  - [Python3 docs](https://docs.python.org/3/library/turtle.html)
+  - [Python docs po polsku](https://docs.python.org/pl/dev/library/turtle.html)
+  - [alchimowicz](http://alchimowicz.pl/zolw/index.html)
+  - [oeiizk](https://python.oeiizk.waw.pl/)
+  - [furas](https://blog.furas.pl/rysowanie-w-turtle-trojkat-wstep.html)
