@@ -5,6 +5,7 @@ Przydatne linki:
 * internetowe kompilalatory pythona:
   - [programiz](https://www.programiz.com/python-programming/online-compiler/)
   - [Trinket](https://trinket.io/python3)
+  - [Trinket żółw](https://trinket.io/turtle)
   - [Project Jupyter](https://jupyter.org/)
   - [CoCalc](https://cocalc.com/)  \(wymaga logowania\)
   - [Google Colab](https://colab.research.google.com/)  \(wymaga logowania\)
